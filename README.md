@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kadenge75" target="blank"><img src="https://img.shields.io/twitter/follow/kadenge75?logo=twitter&style=for-the-badge" alt="kadenge75" /></a> </p>
 
-- 🔭 I’m currently working on **A Sofware Engineering student at AlX**
+- 🔭 I’m currently working on **Sofware Engineering at AlX**
 
 - 🌱 I’m currently learning **Flutter,Js,Node Js**
 
