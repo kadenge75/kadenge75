@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react,C**
 
-- 📫 How to reach me **Kadenge75@gmai.com**
+- 📫 How to reach me **Kadenge75@gmail.com**
 
 - ⚡ Fun fact **I think Am Funny**
 
